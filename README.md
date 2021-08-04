@@ -8,7 +8,7 @@ Techologies: Node.js, CSS, HTML.
 The newsletter application helps you to manage your subscribers once they have registered.
 
 
-![mailchimpInterface](./mailchip.png)
+![mailchimpInterface](./mailchipUI.png)
 
 To start using locally you will need to: 
 1. Create an account at [https://mailchimp.com/] and generete your own API key and ListID.
